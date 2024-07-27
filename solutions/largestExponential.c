@@ -10,8 +10,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-int main()
-{
+int main() {
 
     // Open the file
     FILE *file = fopen("./inputTextFiles/0099_base_exp.txt", "r");

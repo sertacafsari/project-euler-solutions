@@ -10,7 +10,7 @@
  * @date 16/06/2024
  */
 
-int main(){
+int main() {
 
     int n; // The limit 
     scanf("%d", &n);
